@@ -34,10 +34,14 @@
   color: white;
 }
 
+.colorWhite{
+  background-color: white;
+}
+
 .App-link {
-  background-color: #61dafb;
   padding: 10px;
-  margin: 10px
+  margin: 10px;
+  background-color: blue;
 }
 
 @keyframes App-logo-spin {
