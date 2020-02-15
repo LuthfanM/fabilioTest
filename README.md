@@ -12,6 +12,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+--> Create project first using =
+npx create-react-app my-app
+cd my-app
+
+"Replace src and package.json with file inside this repository"
+npm install
+npm start
+
 In the project directory, you can run:
 
 ### `npm start`
