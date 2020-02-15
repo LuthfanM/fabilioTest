@@ -24,7 +24,7 @@ class App extends Component {
   }
 
   async componentDidMount() {
-    const response = await fetch('http://www.mocky.io/v2/5c9105cb330000112b649af8');
+    const response = await fetch('https://www.mocky.io/v2/5c9105cb330000112b649af8');
     const json = await response.json();
     await this.props.furnitureDataAction(json);
     this.setState({ data: json, isFinished: true });
