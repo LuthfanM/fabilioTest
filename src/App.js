@@ -159,6 +159,7 @@ class App extends Component {
             (
               <Card>
                 <Container className="border-outside App-link">
+                   
                     <Row>
                     <Col>
                       <div className="bgInputText">
@@ -178,11 +179,12 @@ class App extends Component {
                         />
                       </Col>
                     </Row>   
-                    </Container>
-                    <Container className="border-outside">                 
+                          
                   <Row>
+                  <div className="colorWhite">
                     <div className="displayInline">
                     <ProductScreen data={dataFurniture} />
+                    </div>
                     </div>
                   </Row>
                 </Container>
