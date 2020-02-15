@@ -1,6 +1,9 @@
 This project is created based on :
+
 ●	Using API provided in http://www.mocky.io/v2/5c9105cb330000112b649af8, 
-●	Design in this app is based on following images : https://s3.amazonaws.com/assets.mockflow.com/app/wireframepro/company/C69f96e47cf7744b1a55563c08b1587fe/projects/M5a10cadd5babe585815a247587e0dced1553009517182/pages/a44974d1dd4a4ee5a3d9b1965cce5240/image/a44974d1dd4a4ee5a3d9b1965cce5240.png
+
+●	Design in this app is based on following images : 
+https://s3.amazonaws.com/assets.mockflow.com/app/wireframepro/company/C69f96e47cf7744b1a55563c08b1587fe/projects/M5a10cadd5babe585815a247587e0dced1553009517182/pages/a44974d1dd4a4ee5a3d9b1965cce5240/image/a44974d1dd4a4ee5a3d9b1965cce5240.png
 
 
 - Luthfan Mursyidan @2020 - 
